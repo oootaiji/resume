@@ -1,20 +1,18 @@
 # 職務経歴書
 ## 基本情報
-
 ### プロフィール
-|key|value|
+|キー|値|
 |---|---|
 |名前|小川泰示|
 |生年月日|1986/08/06|
 |性別|男|
 |血液型|A型|
-|GitHub|[o-taiji](https://github.com/o-taiji)|
-
+|GitHub|[oootaiji](https://github.com/oootaiji)|
 
 ### 言語スキル
 |言語|スキルレベル|
 |---|---|
-|Lavavel(Laravel)|設計から実装まで、チームをリードできる|
+|Lavavel(PHP)|設計から実装まで、チームをリードできる|
 |Node.js(JavaScript)|設計から実装まで、チームをリードできる|
 |Vue.js(JavaScript)|設計から実装まで、チームをリードできる|
 |Nuxt.js(JavaScript)|実務にて簡易的なアプリの実装経験|
@@ -61,11 +59,9 @@
   - RHEL
 - UNIX
 - Docker
-	- Docker Compose
 - Node.js
 - Nginx
 - Apache
-
 
 ### アーキテクチャパターン
 - MVC
@@ -88,9 +84,10 @@
   - CodeCommit
   - CodeBuild
   - CodeDeploy
-  - Kinesis Data Stream,
+  - Kinesis Data Stream
   - API Gateway
   - CloudWatch
+  - CloudWatchLogs
   - S3
   - RDS
   - DynamoDB
@@ -132,6 +129,7 @@
 - Chatwork
 
 ### ツール/ドキュメント
+- Docker Compose
 - Swagger
 - JSDoc
 - Google Apps
@@ -144,7 +142,6 @@
 - Notes
 - desknet's
 - Adobe XD
-
 
 ### 保守運用
 - Notes/Domino
