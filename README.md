@@ -9,6 +9,13 @@
 |血液型|A型|
 |GitHub|[oootaiji](https://github.com/oootaiji)|
 
+### 個人開発
+|アプリ名|技術|URL|
+|---|---|---|
+|得点板アプリ|Android|https://play.google.com/store/apps/developer?id=7+peace|
+|得点板アプリLP|Wordpress|https://tokutenban.com/|
+|タイピングアプリ|Wordpress, Javascript|https://ptyping.com/|
+
 ### 言語スキル
 |言語|スキルレベル|
 |---|---|
@@ -362,7 +369,7 @@
 4. ポータルサイトの構築
 	- 実装: PHP+JavaScript+CSSにてデモ製品を管理する社内向けポータルサイトを構築
 
-### [2013年9月〜2015年11月] 個人
+### [2013年9月〜2015年11月] 個人開発
 
 #### 7. Webタイピングゲーム開発
 1. タイピングゲームの開発
