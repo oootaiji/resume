@@ -34,15 +34,13 @@
 ### 言語/フレームワーク/ライブラリ
 - PHP
   - Laravel
-  - Composer
   - CodeIgniter
+  - 簡易独自フレームワーク
 - Javascript (Server Side)
-  - Node.js
-  - Express
+  - Express (Node.js)
 - Javascript (Client Side)
-  - Vue.js
+  - Vue.js (Vue, Vuex, Vue Router)
   - Nuxt.js
-  - Vuex
 - Java
 - Kotlin
 - Swift
